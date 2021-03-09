@@ -75,7 +75,7 @@ border-bottom: dashed;border-width: 1px;
 }
 
 #selector ol li a:hover{
-    background-color: #d4d4d4;
+    background-color: #f8f8f8;
     
 }
 
@@ -83,6 +83,9 @@ border-bottom: dashed;border-width: 1px;
     vertical-align: middle; 
 }
 
+#selector ol li iframe{
+    vertical-align: middle; 
+}
 
 #directorio{
 background-color: white;
