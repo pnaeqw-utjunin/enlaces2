@@ -47,7 +47,14 @@ display: inline-block;
 }
 
 
+.titulo{
+    padding: 10px;
+    float:left;
+}
 
+.contenido{
+    padding: 20px;
+}
 
 
 #selector ol{
