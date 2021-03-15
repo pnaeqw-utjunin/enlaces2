@@ -16,6 +16,13 @@ body{
     font-family: 'arial';
 }
 
+#texto{
+    font-family: 'calibri';
+    font-size: medium;
+    text-align: justify;
+
+}
+
 #menu{
     
     background-color: #000;
