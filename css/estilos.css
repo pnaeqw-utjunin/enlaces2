@@ -1,8 +1,8 @@
 h1{color:purple;}
+
 p{
     color:green;
-font-size: 20px;
-
+font-size: 1.4em;
 }
 
 #primer{color:blue;}
@@ -14,12 +14,14 @@ font-size: 20px;
 body{
 
     font-family: 'arial';
+    font-size: 1em;
 }
 
 #texto{
-    font-family: 'calibri';
-    font-size: medium;
+    font-family: 'helvetica';
+    font-size: 1em;
     text-align: justify;
+    line-height: 25px;
 
 }
 
