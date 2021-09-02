@@ -95,6 +95,10 @@ border-bottom: dashed;border-width: 1px;
     
 }
 
+#selector_caduco a{
+    background-color: #f59f9f;
+    }
+
 #selector ol li img{
     vertical-align: middle; 
 }
