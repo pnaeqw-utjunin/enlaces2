@@ -74,26 +74,43 @@ display: inline-block;
 }
 
 #selector ol li a{
-
+    font-size: 0.9em;
     color:black;
     display:block;
     padding: 15px 30px;
-    border-top-style:dashed;border-width: 1px;
+    border-top-style:dotted;border-width: 1px;
     border-right-style:none;
     border-left-style:none;
+    border-color: #999999;
     width: 90%;
     text-decoration: none;
     
 }
 
 #selectorfin a{
-border-bottom: dashed;border-width: 1px;
+border-bottom: dotted;border-width: 1px;
 }
 
 #selector ol li a:hover{
-    background-color: #f8f8f8;
+    background-color: #e6e6e6;
     
 }
+
+#segmento summary{
+    color:green;
+    font-weight: 545;
+    display:block;
+    padding: 15px 30px;
+    border-top-style:solid;border-width: 1px;
+    border-right-style:none;
+    border-left-style:none;
+    border-color: #c4c4c4;
+    width: 70%;
+    text-decoration: none;
+
+}
+
+
 
 #selector_caduco a{
     background-color: #f59f9f;
