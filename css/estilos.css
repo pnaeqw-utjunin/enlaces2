@@ -96,6 +96,12 @@ border-bottom: dotted;border-width: 1px;
     
 }
 
+
+#selector1 ol li a{
+    margin-left: 50px;  
+}
+
+
 #segmento summary{
     color:green;
     font-weight: 545;
@@ -105,7 +111,7 @@ border-bottom: dotted;border-width: 1px;
     border-right-style:none;
     border-left-style:none;
     border-color: #c4c4c4;
-    width: 70%;
+    width: 90%;
     text-decoration: none;
 
 }
@@ -114,15 +120,17 @@ border-bottom: dotted;border-width: 1px;
 #segmento2 summary{
     color:black;
     
-    font-size: 1em;
+    font-size: 0.9em;
     display:block;
     padding: 15px 30px;
     border-top-style:solid;border-width: 1px;
     border-right-style:none;
     border-left-style:none;
     border-color: #c4c4c4;
-    width: 70%;
+    width: 90%;
     text-decoration: none;
+    margin-left: 10px;
+    
 
 }
 
