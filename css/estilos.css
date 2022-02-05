@@ -113,7 +113,8 @@ border-bottom: dotted;border-width: 1px;
 
 #segmento2 summary{
     color:black;
-    font-weight: 545;
+    
+    font-size: 1em;
     display:block;
     padding: 15px 30px;
     border-top-style:solid;border-width: 1px;
