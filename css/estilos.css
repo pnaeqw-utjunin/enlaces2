@@ -198,6 +198,9 @@ border: solid 1px rgb(180, 178, 178);
     }
 
 
+    
+    
+
 
 
 #nivelcero summary {
@@ -279,6 +282,18 @@ border: solid 1px rgb(180, 178, 178);
     
     }
     
+
+    #segundonivel summary p{
+
+        color:black;
+        font-size: 0.9em;
+        padding: 0;
+        padding-left: 5px;
+        line-height: 50px;
+    
+    }
+
+
     #segundonivel li {
     
         color:black;
