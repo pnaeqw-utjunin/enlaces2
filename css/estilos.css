@@ -264,6 +264,12 @@ border: solid 1px rgb(180, 178, 178);
     }
     
 
+    #primernivel ol li img{
+        vertical-align: middle;
+        padding: 15px;
+    }
+
+
     #primernivel li a:hover{
     
         background-color: #e6e6e6;
