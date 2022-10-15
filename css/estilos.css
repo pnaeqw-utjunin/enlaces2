@@ -11,6 +11,19 @@ font-size: 1.4em;
 .subtitulo{color:salmon}
 
 
+#sufijo_1{font-family:'arial';  font-size: 1em; font-weight: bold; color:red}
+#sufijo_2{font-family:'arial';  font-size: 1em; font-weight: bold; color:blue}
+#sufijo_3{font-family:'arial';  font-size: 1em; font-weight: bold; color:green}
+#sufijo_4{font-family:'arial';  font-size: 1em; font-weight: bold; color:#FF0080}
+#sufijo_5{font-family:'arial';  font-size: 1em; font-weight: bold; color:#1cbd00}
+#sufijo_6{font-family:'arial';  font-size: 1em; font-weight: bold; color:purple}
+#sufijo_7{font-family:'arial';  font-size: 1em; font-weight: bold; color:#0CB7F2}
+#sufijo_8{font-family:'arial';  font-size: 1em; font-weight: bold; color:#FF7F00}
+#sufijo_9{font-family:'arial';  font-size: 1em; font-weight: bold; color:#8D4925}
+#sufijo_10{font-family:'arial';  font-size: 1em;  font-style: italic; color:#858484}
+#sufijo_11{font-family:'arial';  font-size: 1em; font-weight: bold; color:#008080}
+
+
 body{
 
     font-family: 'arial';
@@ -24,6 +37,22 @@ body{
     line-height: 25px;
 
 }
+
+#texto_1 p{
+   
+
+    
+    display:inline-block;
+    align-items: center;
+    color: #0CB7F2;
+    line-height: 2;
+    font-size: 1em;
+
+}
+
+
+
+
 
 #menu{
     
