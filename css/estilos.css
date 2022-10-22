@@ -289,8 +289,22 @@ border: solid 1px rgb(180, 178, 178);
         width: 100%;
         
         
-    
     }
+
+    #primernivel li a p{
+        text-decoration: none;
+        color:black;
+        font-size: 1em;
+        display:block;
+        width: 100%;
+        line-height: 2;
+        
+        
+        
+    }
+
+
+   
     
 
     #primernivel ol li img{
